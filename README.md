@@ -1,2 +1,2 @@
 # C_Programs
-All my basic C programs that I practice
+This repository contains all the C programs that I practiceas I learn C programming.
